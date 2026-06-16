@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\bin\Release\Canteen.exe
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\bin\Release\Canteen.pdb
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\bin\Release\Canteen.xml
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Release\Canteen.AdminPanel.resources
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Release\Canteen.KantinaPOS.resources
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Release\Canteen.KitchenDisplay.resources
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Release\Canteen.LoginForm.resources
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Release\Canteen.Resources.resources
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Release\Canteen.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Release\Canteen.exe
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Release\Canteen.xml
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Release\Canteen.pdb

@@ -1,0 +1,21 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Canteen\obj\x86\Debug\Canteen.KantinaPOS.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Canteen\obj\x86\Debug\Canteen.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Canteen\obj\x86\Debug\Canteen.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Canteen\bin\Debug\Canteen.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Canteen\bin\Debug\Canteen.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Canteen\bin\Debug\Canteen.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Canteen\obj\x86\Debug\Canteen.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Canteen\obj\x86\Debug\Canteen.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Canteen\obj\x86\Debug\Canteen.pdb
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Debug\Canteen.exe
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Debug\Canteen.xml
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Debug\Canteen.pdb
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\bin\Debug\Canteen.exe
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\bin\Debug\Canteen.pdb
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\bin\Debug\Canteen.xml
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Debug\Canteen.KantinaPOS.resources
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Debug\Canteen.Resources.resources
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Debug\Canteen.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Debug\Canteen.LoginForm.resources
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Debug\Canteen.KitchenDisplay.resources
+C:\Users\Administrator\Documents\ramos\canteen\Canteen\Canteen\obj\x86\Debug\Canteen.AdminPanel.resources
